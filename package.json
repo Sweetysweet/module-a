@@ -1,5 +1,5 @@
 {
-  "name": "module-a",
+  "name": "@sample-proj/counter",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -39,6 +39,5 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ],
-  "files": ["./src"]
+  ]
 }
