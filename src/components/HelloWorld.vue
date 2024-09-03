@@ -1,16 +1,16 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <CounterComponent />
+    <my-counter />
   </div>
 </template>
 
 <script>
-import CounterComponent from "@/components/CounterComponent.vue"
+import MyCounter from "@/components/MyCounter.vue"
 export default {
   name: 'HelloWorld',
   components: {
-    CounterComponent
+    MyCounter
   }
   
 }
